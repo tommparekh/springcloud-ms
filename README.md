@@ -1,2 +1,2 @@
 # springcloud-ms-configserver
-Spring Cloud Microservices
+Spring Cloud Microservices Config Server
